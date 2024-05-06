@@ -11,15 +11,18 @@
 
 body {
     background-color: hsl(212, 45%, 89%);
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
 }
 
 .container {
     width: 273px;
     align-content: center;
-    margin: auto;
     text-align: center;
     padding: 15px;
-    margin-top: 150px;
     background-color: hsl(0, 0%, 100%);
     border: 1px solid hsl(0, 0%, 100%);
     border-radius: 10px;
