@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Desktop design preview
 ![Desktop design preview](./design/created_byme/desktop_design_byme.png)
 
-- Mobile design preview
+- Mobile design preview<br>
 ![Mobile design preview](./design/created_byme/mobile_design_byme.png)
 
 ### Links
